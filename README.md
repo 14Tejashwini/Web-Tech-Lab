@@ -1,5 +1,5 @@
 # Web-Tech-Lab
-This repository contains a collection of web technology lab programs covering various aspects of web development including HTML, CSS, JavaScript, XML, Node.js, and MySQL. These programs are designed to help beginners grasp fundamental concepts and practice implementing them in practical scenarios.
+This repository contains a collection of web technology lab programs covering various aspects of web development including HTML, CSS, JavaScript, and XML. These programs are designed to help beginners grasp fundamental concepts and practice implementing them in practical scenarios.
 
 # Web Technology Lab Programs
 This repository consists of lab programs covering a wide range of web development topics. Each program is designed to provide hands-on experience with different aspects of web technologies.
