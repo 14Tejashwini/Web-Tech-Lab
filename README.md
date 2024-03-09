@@ -1,10 +1,10 @@
 # Web-Tech-Lab
 This repository contains a collection of web technology lab programs covering various aspects of web development including HTML, CSS, JavaScript, XML, Node.js, and MySQL. These programs are designed to help beginners grasp fundamental concepts and practice implementing them in practical scenarios.
 
-#Web Technology Lab Programs
+# Web Technology Lab Programs
 This repository consists of lab programs covering a wide range of web development topics. Each program is designed to provide hands-on experience with different aspects of web technologies.
 
-##List of Programs:
+## List of Programs:
 1. Static Web Pages for Online Book Store:
 Design static pages for an online book store including a home page, login page, and catalogue page.
 Demonstrate usage of frames, CSS styling, background images, link styling, layers, and customized cursors.
@@ -49,8 +49,8 @@ Create an application using Node.js with MySQL for database operations.
 
 Feel free to explore each program in detail by navigating to its respective directory.
 
-##Contributing:
+## Contributing:
 Contributions are welcome! If you have any improvements or additional programs to add, feel free to fork this repository and submit a pull request.
 
-##License:
+## License:
 This repository is licensed under the MIT License.
