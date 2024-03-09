@@ -47,9 +47,6 @@ Design a simple calculator using JavaScript.
 Design an XML document to store student information.
 Demonstrate usage of XML elements and attributes.
 
-12. Node.js Application with MySQL:
-Create an application using Node.js with MySQL for database operations.
-
 Feel free to explore each program in detail by navigating to its respective directory.
 
 ## Contributing:
