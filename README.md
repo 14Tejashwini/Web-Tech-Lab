@@ -9,35 +9,38 @@ This repository consists of lab programs covering a wide range of web developmen
 Design static pages for an online book store including a home page, login page, and catalogue page.
 Demonstrate usage of frames, CSS styling, background images, link styling, layers, and customized cursors.
 
-2. CSS Styling:
+2. CSS Styling - Inline, Internal, and External Style Sheets:
 Implement CSS styling with different font and text styles.
 Set background images for both the page and individual elements.
 Define styles for links and work with layers.
 Add customized cursor to elements.
-
-4. Inline, Internal, and External Style Sheets:
 Develop and demonstrate the usage of inline, internal, and external style sheets using CSS.
 
-5. HTML and CSS Interaction:
+3. HTML and CSS Interaction:
 Create an HTML page with a selection box of countries.
 Display the capital of the selected country with customized CSS properties.
 
-6. JavaScript Form Validation:
-Validate fields such as First Name, Password, Email ID, and Mobile Number using JavaScript.
+4. JavaScript Form Validation part-1:
+Validate fields such as First Name and Password.
 
-7. JavaScript Popup Boxes and Functions:
+5. JavaScript Form Validation part-2:
+Validate Email ID and Mobile Number using JavaScript.
+
+6. JavaScript Popup Boxes and Functions:
 Implement JavaScript functions for displaying the date and calculating factorial.
 Use popup boxes for interaction.
 
-8. JavaScript Programs:
+7. JavaScript Programs:
 Develop JavaScript programs for generating multiplication tables and calculating the sum of numbers.
 Input obtained using prompts and confirms.
 
-9. Number to Words Converter:
+8. Number to Words Converter:
 Write an HTML page with JavaScript functionality to convert numbers to words.
 
-10. Clock and Calculator:
+9. Clock:
 Build a clock using HTML, CSS, and JavaScript.
+
+10. Calculator:
 Design a simple calculator using JavaScript.
 
 11. XML Document Creation:
